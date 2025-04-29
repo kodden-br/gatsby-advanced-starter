@@ -48,7 +48,7 @@
   "dependencies": {
     "@stylelint/postcss-css-in-js": "^0.38.0",
     "babel-plugin-styled-components": "^2.0.7",
-    "gatsby": "^4.17.1",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-styled-components": "^5.17.0",
     "gatsby-theme-amaranth": "*",
     "react": "^17.0.2",
@@ -84,7 +84,7 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-testing-library": "^5.5.1",
     "gatsby-cypress": "^2.17.0",
-    "gh-pages": "^4.0.0",
+    "gh-pages": "^5.0.0",
     "jest": "^28.1.1",
     "jest-environment-jsdom": "^28.1.1",
     "jest-styled-components": "^7.0.8",
